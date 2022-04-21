@@ -10,6 +10,8 @@ public class MainActivity extends AppCompatActivity {
     int sum;
     int diff;
 
+    int soumen;
+
     
     @Override
     protected void onCreate(Bundle savedInstanceState) {
