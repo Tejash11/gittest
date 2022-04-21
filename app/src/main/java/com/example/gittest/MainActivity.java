@@ -6,6 +6,11 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
+    int test;
+    int sum;
+    int diff;
+
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
